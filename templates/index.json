@@ -38,21 +38,6 @@
         "text_color": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -345,7 +330,6 @@
   "order": [
     "image_with_text_overlay_B9LLKa",
     "custom_liquid_dPgtik",
-    "scrolling-text",
     "impact-text",
     "image-with-text-overlay",
     "custom_liquid_dY9PFd",
