@@ -418,6 +418,46 @@
         "text_color": ""
       }
     },
+    "rich_text_byXYBt": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_4XFzKP": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_gWM9rj": {
+          "type": "heading",
+          "settings": {
+            "text": "MATIERE/TAILLES/ENTRETIEN",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_4gcrAB": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4XFzKP",
+        "heading_gWM9rj",
+        "richtext_4gcrAB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -485,6 +525,7 @@
     "featured-product",
     "rich_text_qAAjUt",
     "custom_liquid_dY9PFd",
+    "rich_text_byXYBt",
     "faq"
   ]
 }
