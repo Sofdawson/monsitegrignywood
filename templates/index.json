@@ -116,35 +116,17 @@
         "overlay_opacity": 0
       }
     },
-    "video_HTXEce": {
-      "type": "video",
-      "blocks": {
-        "play_ziFhaJ": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_mqfBD3": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_ziFhaJ",
-        "heading_mqfBD3"
-      ],
-      "name": "Video",
+    "custom_liquid_dY9PFd": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"gw-video-wrap\">\n  <div class=\"gw-iphone\">\n    <span class=\"gw-island\"></span>\n    <video class=\"gw-screen\" autoplay loop muted playsinline\n      poster=\"https://d8j0ntlcm91z4.cloudfront.net/user_3CGwL0l8w36cKMEniWlkPmSiGJx/hf_20260806_163205_356524aa-f109-4b34-b31c-cbf52d7b66fa.png\">\n      <source src=\"https://d8j0ntlcm91z4.cloudfront.net/user_3CGwL0l8w36cKMEniWlkPmSiGJx/hf_20260806_163343_203960c0-3b78-416c-83bf-0ee651625666.mp4\" type=\"video/mp4\">\n    </video>\n  </div>\n</div>\n<style>\n.gw-video-wrap{display:flex;justify-content:center;padding:48px 16px;background:#ffffff;}\n.gw-iphone{position:relative;width:320px;aspect-ratio:9/19.5;\n  background:linear-gradient(145deg,#3b3b3d,#1a1a1c 40%,#2c2c2e);\n  border-radius:58px;padding:12px;\n  box-shadow:0 24px 60px rgba(0,0,0,.4),0 0 0 2px #4a4a4c inset,0 0 0 6px #101012;}\n.gw-iphone::before{content:\"\";position:absolute;right:-4px;top:165px;width:4px;height:78px;\n  background:#2a2a2c;border-radius:0 4px 4px 0;}      /* bouton latéral droit */\n.gw-iphone::after{content:\"\";position:absolute;left:-4px;top:130px;width:4px;height:44px;\n  background:#2a2a2c;border-radius:4px 0 0 4px;box-shadow:0 60px 0 #2a2a2c;} /* volume + action */\n.gw-screen{width:100%;height:100%;object-fit:cover;border-radius:46px;display:block;background:#000;}\n.gw-island{position:absolute;top:22px;left:50%;transform:translateX(-50%);\n  width:100px;height:30px;background:#000;border-radius:20px;z-index:2;}\n@media(max-width:480px){.gw-iphone{width:270px;border-radius:50px;}}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "before-after-image": {
@@ -366,7 +348,7 @@
     "scrolling-text",
     "impact-text",
     "image-with-text-overlay",
-    "video_HTXEce",
+    "custom_liquid_dY9PFd",
     "before-after-image",
     "press",
     "featured-product",
