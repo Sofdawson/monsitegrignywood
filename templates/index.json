@@ -51,97 +51,6 @@
         "overlay_opacity": 0
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/france_tv.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/le_monde.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/bfm_tv.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Le_Parisien.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/logo_france_24.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
-      ],
-      "settings": {
-        "full_width": false,
-        "block_size": "small",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -439,7 +348,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"gw-press\">\n  <div class=\"gw-track\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/france_tv.png?v=1786025451\"  alt=\"France TV\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/le_monde.png?v=1786025477\"   alt=\"Le Monde\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/bfm_tv.jpg?v=1786025496\"      alt=\"BFM TV\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/Le_Parisien.jpg?v=1786025514\" alt=\"Le Parisien\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/logo_france_24.png?v=1786025531\"   alt=\"France 24\">\n    <!-- copie dupliquée pour un défilement fluide -->\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/france_tv.png?v=1786025451\"  alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/le_monde.png?v=1786025477\"   alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/bfm_tv.jpg?v=1786025496\"      alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/Le_Parisien.jpg?v=1786025514\" alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/logo_france_24.png?v=1786025531\"   alt=\"\">\n  </div>\n</div>\n<style>\n.gw-press{overflow:hidden;width:100%;padding:30px 0;background:#f4f6f8;}\n.gw-track{display:flex;align-items:center;gap:80px;width:max-content;\n  animation:gwScroll 25s linear infinite;}\n.gw-track:hover{animation-play-state:paused;}\n.gw-track img{height:55px;width:auto;flex:0 0 auto;object-fit:contain;}\n@keyframes gwScroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}\n</style>",
+        "liquid": "<div class=\"gw-press\">\n  <div class=\"gw-track\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/france_tv.png?v=1786025451\"  alt=\"France TV\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/le_monde.png?v=1786025477\"   alt=\"Le Monde\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/bfm_tv.jpg?v=1786025496\"      alt=\"BFM TV\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/Le_Parisien.jpg?v=1786025514\" alt=\"Le Parisien\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/logo_france_24.png?v=1786025531\"   alt=\"France 24\">\n    <!-- copie dupliquée pour un défilement fluide -->\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/france_tv.png?v=1786025451\"  alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/le_monde.png?v=1786025477\"   alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/bfm_tv.jpg?v=1786025496\"      alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/Le_Parisien.jpg?v=1786025514\" alt=\"\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0980/1724/7556/files/logo_france_24.png?v=1786025531\"   alt=\"\">\n  </div>\n</div>\n<style>\n.gw-press{overflow:hidden;width:100%;padding:36px 0;background:#ffffff;}\n.gw-track{display:flex;align-items:center;gap:60px;width:max-content;\n  animation:gwScroll 25s linear infinite;}\n.gw-track:hover{animation-play-state:paused;}\n.gw-track img{height:90px;width:170px;flex:0 0 auto;object-fit:contain;}\n@keyframes gwScroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -448,7 +357,6 @@
   },
   "order": [
     "image_with_text_overlay_B9LLKa",
-    "image-link-blocks",
     "scrolling-text",
     "impact-text",
     "image-with-text-overlay",
