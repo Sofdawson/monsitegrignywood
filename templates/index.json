@@ -101,6 +101,39 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_qAAjUt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LkTnn3": {
+          "type": "heading",
+          "settings": {
+            "text": "SHOOTING PHOTO",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_6jdEQT": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LkTnn3",
+        "richtext_6jdEQT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_dY9PFd": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -332,6 +365,7 @@
     "custom_liquid_dPgtik",
     "impact-text",
     "image-with-text-overlay",
+    "rich_text_qAAjUt",
     "custom_liquid_dY9PFd",
     "before-after-image",
     "press",
