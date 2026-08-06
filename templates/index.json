@@ -130,13 +130,46 @@
         "text_color": ""
       }
     },
+    "rich_text_LfyYQh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UaAkzU": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ntCrgL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UaAkzU",
+        "richtext_ntCrgL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "timeline_GbHad8": {
       "type": "timeline",
       "blocks": {
         "slide_Em89Cb": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1953",
+            "navigation_label": "2003",
             "subheading": "Subheading",
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -145,7 +178,7 @@
         "slide_LBTz9m": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1960",
+            "navigation_label": "2010",
             "subheading": "Subheading",
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -154,7 +187,16 @@
         "slide_Y8LA8h": {
           "type": "slide",
           "settings": {
-            "navigation_label": "1966",
+            "navigation_label": "2017",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "slide_pUWTxN": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2025",
             "subheading": "Subheading",
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -164,11 +206,51 @@
       "block_order": [
         "slide_Em89Cb",
         "slide_LBTz9m",
-        "slide_Y8LA8h"
+        "slide_Y8LA8h",
+        "slide_pUWTxN"
       ],
       "name": "Timeline",
       "settings": {
         "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_UQacCW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pQUFTE": {
+          "type": "heading",
+          "settings": {
+            "text": "Ils l'ont adopté et ils le montrent.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pQUFTE"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_hxzjzW": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"gw-reviews\">\n  <div class=\"gw-rev-track\">\n\n    <figure class=\"gw-rev-card\">\n      <video autoplay loop muted playsinline preload=\"metadata\" poster=\"URL_POSTER_1\">\n        <source src=\"URL_VIDEO_1\" type=\"video/mp4\"></video>\n      <figcaption>\n        <div class=\"gw-stars\">★★★★★</div>\n        <p class=\"gw-name\">Yanis · Lyon</p>\n        <p class=\"gw-txt\">« La qualité 350g se sent direct. »</p>\n      </figcaption>\n    </figure>\n\n    <figure class=\"gw-rev-card\">\n      <video autoplay loop muted playsinline preload=\"metadata\" poster=\"URL_POSTER_2\">\n        <source src=\"URL_VIDEO_2\" type=\"video/mp4\"></video>\n      <figcaption>\n        <div class=\"gw-stars\">★★★★★</div>\n        <p class=\"gw-name\">Sarah · Paris</p>\n        <p class=\"gw-txt\">« Fière de porter cette histoire. »</p>\n      </figcaption>\n    </figure>\n\n    <figure class=\"gw-rev-card\">\n      <video autoplay loop muted playsinline preload=\"metadata\" poster=\"URL_POSTER_3\">\n        <source src=\"URL_VIDEO_3\" type=\"video/mp4\"></video>\n      <figcaption>\n        <div class=\"gw-stars\">★★★★★</div>\n        <p class=\"gw-name\">Mehdi · Toulouse</p>\n        <p class=\"gw-txt\">« Le flocage tient nickel au lavage. »</p>\n      </figcaption>\n    </figure>\n\n    <figure class=\"gw-rev-card\">\n      <video autoplay loop muted playsinline preload=\"metadata\" poster=\"URL_POSTER_4\">\n        <source src=\"URL_VIDEO_4\" type=\"video/mp4\"></video>\n      <figcaption>\n        <div class=\"gw-stars\">★★★★★</div>\n        <p class=\"gw-name\">Inès · Lille</p>\n        <p class=\"gw-txt\">« Coupe parfaite, taille bien. »</p>\n      </figcaption>\n    </figure>\n\n    <figure class=\"gw-rev-card\">\n      <video autoplay loop muted playsinline preload=\"metadata\" poster=\"URL_POSTER_5\">\n        <source src=\"URL_VIDEO_5\" type=\"video/mp4\"></video>\n      <figcaption>\n        <div class=\"gw-stars\">★★★★★</div>\n        <p class=\"gw-name\">Karim · Marseille</p>\n        <p class=\"gw-txt\">« On me demande la marque à chaque fois. »</p>\n      </figcaption>\n    </figure>\n\n    <figure class=\"gw-rev-card\">\n      <video autoplay loop muted playsinline preload=\"metadata\" poster=\"URL_POSTER_6\">\n        <source src=\"URL_VIDEO_6\" type=\"video/mp4\"></video>\n      <figcaption>\n        <div class=\"gw-stars\">★★★★★</div>\n        <p class=\"gw-name\">Léa · Nantes</p>\n        <p class=\"gw-txt\">« Un achat qui a du sens. »</p>\n      </figcaption>\n    </figure>\n\n  </div>\n</div>\n<style>\n.gw-reviews{background:#ffffff;padding:34px 0;}\n.gw-rev-track{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;\n  padding:4px 20px 14px;-webkit-overflow-scrolling:touch;}\n.gw-rev-track::-webkit-scrollbar{height:6px;}\n.gw-rev-track::-webkit-scrollbar-thumb{background:#ddd;border-radius:6px;}\n.gw-rev-card{flex:0 0 auto;width:300px;margin:0;scroll-snap-align:center;}\n.gw-rev-card video{width:100%;aspect-ratio:9/16;object-fit:cover;\n  border-radius:18px;background:#000;display:block;box-shadow:0 8px 24px rgba(0,0,0,.12);}\n.gw-rev-card figcaption{padding:10px 4px 0;text-align:center;}\n.gw-stars{color:#C8922A;font-size:15px;letter-spacing:2px;}\n.gw-name{font-weight:700;font-size:14px;color:#1a1a1a;margin:4px 0 2px;}\n.gw-txt{font-size:13px;color:#555;margin:0;line-height:1.35;}\n@media(max-width:749px){\n  .gw-rev-card{width:230px;}\n}\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -332,7 +414,10 @@
     "image-with-text-overlay",
     "rich_text_qAAjUt",
     "custom_liquid_dY9PFd",
+    "rich_text_LfyYQh",
     "timeline_GbHad8",
+    "rich_text_UQacCW",
+    "custom_liquid_hxzjzW",
     "featured-product",
     "faq"
   ]
