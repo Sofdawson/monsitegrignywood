@@ -130,28 +130,48 @@
         "text_color": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
+    "timeline_GbHad8": {
+      "type": "timeline",
+      "blocks": {
+        "slide_Em89Cb": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "1953",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "slide_LBTz9m": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "1960",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "slide_Y8LA8h": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "1966",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Em89Cb",
+        "slide_LBTz9m",
+        "slide_Y8LA8h"
+      ],
+      "name": "Timeline",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "before_image": "shopify://shop_images/tee-shirt_avant.jpg",
-        "before_image_mobile": "shopify://shop_images/ChatGPT_Image_6_aout_2026_20_05_06.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
       }
     },
     "featured-product": {
@@ -312,7 +332,7 @@
     "image-with-text-overlay",
     "rich_text_qAAjUt",
     "custom_liquid_dY9PFd",
-    "before-after-image",
+    "timeline_GbHad8",
     "featured-product",
     "faq"
   ]
