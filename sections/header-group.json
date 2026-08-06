@@ -50,8 +50,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/Capture_d_ecran_2026-08-06_a_16.27.16.png",
+        "logo_max_width": 135,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
