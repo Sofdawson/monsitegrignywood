@@ -139,7 +139,9 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "h1, h2, h3, h4,.h0, .h1, .h2, .h3, .h4 {font-style: italic !important; letter-spacing: -0.015em;}"
+      "/* ── Titres du thème en italique, comme les sections ── */h1, h2, h3, h4,.h0, .h1, .h2, .h3, .h4 {font-style: italic !important; letter-spacing: -0.015em;}",
+      "/* ── MENU PRINCIPAL — ciblage par l'ID de section Shopify ── */[id*=\"__header\"] a,[id*=\"__header\"] summary,[id*=\"__header\"] span,[id*=\"__header\"] li {font-family: var(--font-body-family), system-ui, sans-serif !important; font-weight: 700 !important; font-style: italic !important; text-transform: uppercase !important; letter-spacing: 0.01em !important;}",
+      "/* ── MENU MOBILE (tiroir) ── */.menu-drawer a,.menu-drawer span,[id*=\"__header\"] details a,[id*=\"__header\"] details span {font-family: var(--font-body-family), system-ui, sans-serif !important; font-weight: 700 !important; font-style: italic !important; text-transform: uppercase !important;}"
     ]
   }
 }
