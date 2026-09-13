@@ -83,6 +83,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_LxwRcf": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"gwa\">\n  <h2 class=\"gwa-title\">Ils l'ont adopté, et ils le disent mieux que nous</h2>\n\n  <!-- ⚠️ AVIS DE TEST — À REMPLACER PAR DE VRAIS AVIS CLIENTS AVANT MISE EN LIGNE ⚠️ -->\n  <div class=\"gwa-grid\">\n\n    <!-- 1 · FEMME · LYON -->\n    <article class=\"gwa-card\">\n      <div class=\"gwa-photo\"><span>Photo client</span></div>\n      <div class=\"gwa-panel\">\n        <div class=\"gwa-stars\" aria-label=\"5 sur 5\">\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n        </div>\n        <h3>« On sent le 350 g direct »</h3>\n        <p>Rien à voir avec les tee-shirts fins que j'avais avant. Il a du corps, il tombe bien, et il ne se déforme pas au lavage.</p>\n        <div class=\"gwa-who\"><span class=\"gwa-av\">L</span><div><strong>Léa</strong><em>Lyon</em></div></div>\n      </div>\n    </article>\n\n    <!-- 2 · HOMME · LILLE -->\n    <article class=\"gwa-card\">\n      <div class=\"gwa-photo\"><span>Photo client</span></div>\n      <div class=\"gwa-panel\">\n        <div class=\"gwa-stars\" aria-label=\"5 sur 5\">\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n        </div>\n        <h3>« J'ai pris ma taille habituelle »</h3>\n        <p>J'hésitais à commander en ligne pour un oversize. Le guide des tailles était clair, la coupe est exactement comme sur les photos.</p>\n        <div class=\"gwa-who\"><span class=\"gwa-av\">M</span><div><strong>Mehdi</strong><em>Lille</em></div></div>\n      </div>\n    </article>\n\n    <!-- 3 · FEMME · MARSEILLE -->\n    <article class=\"gwa-card\">\n      <div class=\"gwa-photo\"><span>Photo client</span></div>\n      <div class=\"gwa-panel\">\n        <div class=\"gwa-stars\" aria-label=\"5 sur 5\">\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n        </div>\n        <h3>« Enfin une marque qui raconte un truc »</h3>\n        <p>J'en avais marre des logos que tout le monde porte. Là il y a une histoire derrière, et ça change tout quand on me demande d'où il vient.</p>\n        <div class=\"gwa-who\"><span class=\"gwa-av\">C</span><div><strong>Camille</strong><em>Marseille</em></div></div>\n      </div>\n    </article>\n\n    <!-- 4 · HOMME · TOULOUSE -->\n    <article class=\"gwa-card\">\n      <div class=\"gwa-photo\"><span>Photo client</span></div>\n      <div class=\"gwa-panel\">\n        <div class=\"gwa-stars\" aria-label=\"5 sur 5\">\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n        </div>\n        <h3>« Le flocage n'a pas bougé »</h3>\n        <p>Une dizaine de lavages et il est comme au premier jour. Pas de craquelure, pas de décoloration. C'est ça que je voulais vérifier.</p>\n        <div class=\"gwa-who\"><span class=\"gwa-av\">T</span><div><strong>Thomas</strong><em>Toulouse</em></div></div>\n      </div>\n    </article>\n\n    <!-- 5 · FEMME · NANTES -->\n    <article class=\"gwa-card\">\n      <div class=\"gwa-photo\"><span>Photo client</span></div>\n      <div class=\"gwa-panel\">\n        <div class=\"gwa-stars\" aria-label=\"5 sur 5\">\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n        </div>\n        <h3>« Commandé lundi, reçu mercredi »</h3>\n        <p>Livraison rapide et suivi dès l'expédition. Le colis était soigné, on sent que ce n'est pas de la vente à la chaîne.</p>\n        <div class=\"gwa-who\"><span class=\"gwa-av\">I</span><div><strong>Inès</strong><em>Nantes</em></div></div>\n      </div>\n    </article>\n\n    <!-- 6 · HOMME · STRASBOURG -->\n    <article class=\"gwa-card\">\n      <div class=\"gwa-photo\"><span>Photo client</span></div>\n      <div class=\"gwa-panel\">\n        <div class=\"gwa-stars\" aria-label=\"5 sur 5\">\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n          <svg viewBox=\"0 0 24 24\"><path d=\"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z\"/></svg>\n        </div>\n        <h3>« Je suis pas de Grigny, et alors ? »</h3>\n        <p>J'ai hésité en me disant que c'était réservé à ceux du coin. En fait pas du tout. Le message parle à tout le monde, et je le porte fier.</p>\n        <div class=\"gwa-who\"><span class=\"gwa-av\">S</span><div><strong>Samir</strong><em>Strasbourg</em></div></div>\n      </div>\n    </article>\n\n  </div>\n</div>\n\n<style>\n@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,600;0,700;1,900&display=swap');\n\n.gwa{\n  /* ================= RÉGLAGES ================= */\n  --gw-orange:#F5C518;\n  --gw-ink:#111111;\n  --gw-bg:#FFFFFF;\n  --gw-border:2px;\n  --gw-max:1760px;        /* largeur de la zone avis — élargie */\n  /* ============================================ */\n\n  background:var(--gw-bg);\n  color:var(--gw-ink);\n  padding:60px 24px 68px;\n  box-sizing:border-box;\n  font-family:'Archivo',system-ui,sans-serif;\n}\n\n/* GRAND TITRE DE SECTION — standard commun à tout le site. */\n.gwa-title{\n  font-weight:900;font-style:italic;text-transform:uppercase;\n  text-align:center;color:var(--gw-ink);\n  font-size:clamp(22px,3.4vw,38px);\n  line-height:1.05;letter-spacing:-0.015em;\n  margin:0 0 46px;\n}\n\n.gwa-grid{\n  display:grid;\n  grid-template-columns:1fr;\n  gap:22px;\n  max-width:var(--gw-max);\n  margin:0 auto;\n}\n\n.gwa-card{\n  display:flex;\n  border:var(--gw-border) solid var(--gw-ink);\n  background:var(--gw-orange);\n  overflow:hidden;\n}\n\n/* --- photo client (placeholder) --- */\n.gwa-photo{\n  flex:0 0 40%;\n  position:relative;\n  background:#D9D9D9;\n  border-right:var(--gw-border) solid var(--gw-ink);\n  display:flex;align-items:center;justify-content:center;\n  min-height:280px;\n}\n.gwa-photo span{\n  font-weight:700;font-size:12px;letter-spacing:.08em;\n  text-transform:uppercase;color:#6B6B6B;\n}\n/* Pour une vraie photo : remplacer <div class=\"gwa-photo\">…</div> par\n   <img class=\"gwa-photo\" src=\"URL\" alt=\"Client portant le t-shirt Grignywood\"> */\nimg.gwa-photo{object-fit:cover;display:block;}\n\n/* --- panneau texte --- */\n.gwa-panel{\n  flex:1;\n  padding:24px 26px;\n  display:flex;flex-direction:column;\n  box-sizing:border-box;\n}\n\n.gwa-stars{display:flex;gap:3px;margin-bottom:14px;}\n.gwa-stars svg{width:19px;height:19px;fill:var(--gw-ink);}\n\n.gwa-panel h3{\n  margin:0 0 12px;\n  font-weight:900;font-style:italic;text-transform:uppercase;\n  font-size:clamp(17px,1.5vw,22px);\n  line-height:1.15;letter-spacing:-0.015em;\n}\n.gwa-panel p{\n  margin:0 0 22px;\n  font-weight:600;font-size:15px;line-height:1.5;\n}\n\n.gwa-who{\n  margin-top:auto;\n  display:flex;align-items:center;gap:12px;\n}\n.gwa-av{\n  flex:0 0 auto;\n  width:44px;height:44px;border-radius:50%;\n  background:var(--gw-ink);color:var(--gw-orange);\n  display:flex;align-items:center;justify-content:center;\n  font-weight:900;font-style:italic;font-size:18px;\n}\n/* Pour une vraie photo de profil : remplacer <span class=\"gwa-av\">L</span> par\n   <img class=\"gwa-av\" src=\"URL\" alt=\"\"> */\nimg.gwa-av{object-fit:cover;}\n\n.gwa-who strong{\n  display:block;\n  font-weight:900;font-style:italic;text-transform:uppercase;\n  font-size:16px;letter-spacing:-0.01em;\n}\n.gwa-who em{\n  display:block;font-style:normal;font-weight:600;font-size:13px;\n}\n\n/* --- DESKTOP : 3 colonnes larges, 2 rangées --- */\n@media(min-width:1000px){\n  .gwa-grid{grid-template-columns:repeat(3,1fr);gap:28px;}\n  .gwa-panel{padding:26px 30px;}\n}\n\n/* --- TABLETTE : 2 colonnes --- */\n@media(min-width:700px) and (max-width:999px){\n  .gwa-grid{grid-template-columns:repeat(2,1fr);}\n}\n\n/* --- MOBILE : photo au-dessus, texte en dessous --- */\n@media(max-width:699px){\n  .gwa{padding:44px 20px 50px;}\n  .gwa-title{margin:0 0 30px;}\n  .gwa-card{flex-direction:column;}\n  .gwa-photo{\n    flex:0 0 auto;width:100%;height:210px;min-height:0;\n    border-right:none;\n    border-bottom:var(--gw-border) solid var(--gw-ink);\n  }\n  .gwa-panel{padding:20px;}\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -181,92 +194,6 @@
         "input_text_color": ""
       }
     },
-    "rich_text_qAAjUt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_LkTnn3": {
-          "type": "heading",
-          "settings": {
-            "text": "Le Dino en image",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_6jdEQT": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_LkTnn3",
-        "richtext_6jdEQT"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_dY9PFd": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"gw-video-wrap\">\n  <div class=\"gw-iphone\">\n    <span class=\"gw-island\"></span>\n    <video class=\"gw-screen\" autoplay loop muted playsinline\n      poster=\"https://d8j0ntlcm91z4.cloudfront.net/user_3CGwL0l8w36cKMEniWlkPmSiGJx/hf_20260806_163205_356524aa-f109-4b34-b31c-cbf52d7b66fa.png\">\n      <source src=\"https://d8j0ntlcm91z4.cloudfront.net/user_3CGwL0l8w36cKMEniWlkPmSiGJx/hf_20260806_163343_203960c0-3b78-416c-83bf-0ee651625666.mp4\" type=\"video/mp4\">\n    </video>\n  </div>\n</div>\n<style>\n.gw-video-wrap{display:flex;justify-content:center;padding:48px 16px;background:#ffffff;}\n.gw-iphone{position:relative;width:320px;aspect-ratio:9/19.5;\n  background:linear-gradient(145deg,#3b3b3d,#1a1a1c 40%,#2c2c2e);\n  border-radius:58px;padding:12px;\n  box-shadow:0 24px 60px rgba(0,0,0,.4),0 0 0 2px #4a4a4c inset,0 0 0 6px #101012;}\n.gw-iphone::before{content:\"\";position:absolute;right:-4px;top:165px;width:4px;height:78px;\n  background:#2a2a2c;border-radius:0 4px 4px 0;}      /* bouton latéral droit */\n.gw-iphone::after{content:\"\";position:absolute;left:-4px;top:130px;width:4px;height:44px;\n  background:#2a2a2c;border-radius:4px 0 0 4px;box-shadow:0 60px 0 #2a2a2c;} /* volume + action */\n.gw-screen{width:100%;height:100%;object-fit:cover;border-radius:46px;display:block;background:#000;}\n.gw-island{position:absolute;top:22px;left:50%;transform:translateX(-50%);\n  width:100px;height:30px;background:#000;border-radius:20px;z-index:2;}\n@media(max-width:480px){.gw-iphone{width:270px;border-radius:50px;}}\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_byXYBt": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_4XFzKP": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_gWM9rj": {
-          "type": "heading",
-          "settings": {
-            "text": "MATIERE/TAILLES/ENTRETIEN",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_4gcrAB": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_4XFzKP",
-        "heading_gWM9rj",
-        "richtext_4gcrAB"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -326,10 +253,8 @@
     "impact-text",
     "custom_liquid_9bAJEx",
     "custom_liquid_Nqxhfc",
+    "custom_liquid_LxwRcf",
     "featured-product",
-    "rich_text_qAAjUt",
-    "custom_liquid_dY9PFd",
-    "rich_text_byXYBt",
     "faq"
   ]
 }
