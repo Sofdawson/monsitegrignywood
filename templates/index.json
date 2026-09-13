@@ -245,6 +245,19 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "custom_liquid_PxTDJL": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -254,6 +267,7 @@
     "custom_liquid_9bAJEx",
     "custom_liquid_Nqxhfc",
     "custom_liquid_LxwRcf",
+    "custom_liquid_PxTDJL",
     "featured-product",
     "faq"
   ]
